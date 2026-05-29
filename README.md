@@ -2,7 +2,7 @@
 
 EduHub is a modern and responsive educational landing page built using pure HTML and CSS. The project is designed to showcase an online learning platform with an attractive user interface, smooth layout, and engaging sections for students and learners.
 
-<img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/6c8da41f-8171-4762-8e68-a0bca730bd2f" />
+<img width="100%" height="100%" alt="image" src="https://github.com/Tushar-Barik-78/CSS-Mega-Project/blob/main/images/EduHub_Home.png" />
 
 ## 🚀 Features
 
